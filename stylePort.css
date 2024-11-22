@@ -450,7 +450,7 @@ body {
     border-radius: 25px;
     height: 130px;
     width: 30%;
-    background-image: url(/MyPortfolio/Media/bg2.jpg);
+    background-image: url(bg2.jpg);
     background-attachment:unset;
     background-position: center;
     background-size:100%;
